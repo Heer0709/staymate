@@ -1,0 +1,25 @@
+{
+  "name": "staymate-ai",
+  "version": "1.0.0",
+  "description": "StayMate AI - PG, Hostel, Room & Shared-Accommodation Finder for India",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "pg-finder",
+    "hostel",
+    "accommodation",
+    "india",
+    "vadodara",
+    "ai-search",
+    "roommate-finder"
+  ],
+  "author": "StayMate AI Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
